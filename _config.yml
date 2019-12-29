@@ -7,15 +7,15 @@ url:
 
 # Owner/author information
 owner:
-  name:           Felixman
-  avatar:         felixman.jpg
-  bio:            "Hold on your own"
-  email:          lifuxin1125@gmail.com
+  name:           FF
+  avatar:         ff.jpg
+  bio:            "stay awake"
+  email:          ffshines@163.com
   # Social networking links used in footer. Update and remove as you like.
   weibo:          2359463794
   twitter:        
   facebook:       
-  github:         lifuxin        
+  github:         FF-BJ    
   stackexchange:  
   linkedin:       
   instagram:      
@@ -70,5 +70,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-
-theme: jekyll-theme-cayman
