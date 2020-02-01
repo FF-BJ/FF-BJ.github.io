@@ -22,6 +22,7 @@ ge<u>n</u>era<u>l</u>
 数字基本都是要发准辅音：se<u>v</u>e<u>n</u>, <u>t</u> <u>w</u> e <u>l</u> <u>v</u>e
 
 ## 规则二：清辅音和浊辅音（voiced and voiceless consonants）
+
 |类型|辅音|
 |:---|:---|
 |用声带振动的辅音|/z/ /v/ /t/|
