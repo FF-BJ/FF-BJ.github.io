@@ -3,7 +3,7 @@ layout: post
 title: 美式英语发音总结（节奏和语调）
 description: "美英发音"
 modified: 2020-02-01
-tags: [english, consonant sound]
+tags: [english, rhythm, intonation]
 image:
   feature: abstract-5.jpg
 ---
