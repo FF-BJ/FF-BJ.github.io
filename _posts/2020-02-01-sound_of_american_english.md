@@ -3,7 +3,7 @@ layout: post
 title: 美式英语发音总结（元音篇）
 description: "美英发音"
 modified: 2020-02-01
-tags: [english, sound]
+tags: [english, vowel sound]
 image:
   feature: abstract-5.jpg
 ---
